@@ -1,1 +1,7 @@
-
+install package dependencies:
+$ sudo apt-get install gcc-multilib g++-multilib
+$ sudo apt-get install ocl-icd-libopencl1
+$ sudo apt-get install ocl-icd-opencl-dev
+$ sudo apt-get install opencl-headers
+$ sudo apt install libstdc++6
+$ sudo apt install libncurses5
