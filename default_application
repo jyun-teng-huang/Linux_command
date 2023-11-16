@@ -13,3 +13,6 @@ sudo apt-get -y install samba
 sudo vim /etc/samba/smb.conf
 sudo smbpasswd -a username
 sudo systemctl restart smbd
+
+# For Anydesk
+sudo apt install libcanberra-gtk-module libcanberra-gtk3-module -y
