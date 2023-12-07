@@ -1,7 +1,7 @@
 ### Common Packages on Ubuntu:
 ```
 apt update
-apt install net-tools openssh-server vim konsole p7zip-full curl tree
+apt install net-tools openssh-server vim konsole p7zip-full tree
 ```
 
 ### Anydesk
