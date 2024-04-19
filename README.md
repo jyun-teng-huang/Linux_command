@@ -15,12 +15,12 @@ apt install -y libcanberra-gtk-module libcanberra-gtk3-module -y
 ```
 ### Vitis dependencies packages:
 ```
-sudo apt-get install gcc-multilib g++-multilib
-sudo apt-get install ocl-icd-libopencl1
-sudo apt-get install ocl-icd-opencl-dev
-sudo apt-get install opencl-headers
-sudo apt install libstdc++6
-sudo apt install libncurses5
+sudo apt-get install gcc-multilib g++-multilib -y
+sudo apt-get install ocl-icd-libopencl1 -y
+sudo apt-get install ocl-icd-opencl-dev -y
+sudo apt-get install opencl-headers -y
+sudo apt install libstdc++6 -y
+sudo apt install libncurses5 -y
 ```
 ### Petalinux dependencies packages:
 ```
