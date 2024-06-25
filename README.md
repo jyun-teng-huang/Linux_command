@@ -1,8 +1,10 @@
 # Linux Common Command Line
 ### Common Packages on Ubuntu:
 ```
-apt update
-apt install -y sudo net-tools openssh-server vim konsole p7zip-full tree
+sudo apt update
+sudo apt install -y sudo net-tools openssh-server vim konsole p7zip-full tree
+sudo apt install -y chrome-gnome-shell
+
 ```
 ### Install Anydesk
 ```
