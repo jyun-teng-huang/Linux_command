@@ -1,4 +1,4 @@
-# Linux Common Command Line
+# Ubuntu Common Command Line
 ### Common Packages on Ubuntu:
 ```
 sudo apt update
